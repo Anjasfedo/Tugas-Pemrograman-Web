@@ -81,7 +81,7 @@ INSERT INTO `preview_setup` (`id`, `view_name`, `view_pic`) VALUES
 (8, 'Play Music', 'f11.png'),
 (9, 'playlists', 'f12.png'),
 (10, 'Profile & Setting', 'f13.png'),
-(11, 'Upgarde To Premium', 'f14.png'),
+(11, 'Upgrade To Premium', 'f14.png'),
 (12, 'Settings', 'f15.png');
 
 
