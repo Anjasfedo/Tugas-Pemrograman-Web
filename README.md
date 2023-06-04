@@ -1,9 +1,10 @@
-1. Run XAMPP
+1. Jalankan XAMPP
 
-3. Make database, name "chillin"
+2. pindahkan file menuju "xampp/htdocs"
 
-2. Run sql, sql code at include/sql.sql
+3. Buat database, beri nama "chillin"
+   atau sesuaikan nama database dengan isi pada include/db/php
 
-3. Move file to xampp/htdocs
+4. Jalankan perintah sql, copy kode pada include/sql.sql
 
-4. Open in browser /localhost/Tugas-Pemrograman-Web-main/index.php
+4. Buka pada browser "/localhost/Tugas-Pemrograman-Web-main/index.php"
