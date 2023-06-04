@@ -3,4 +3,6 @@
 2. Run sql
 sql code at include/sql.sql
 
-3. Open in browser /localhost/Tugas-Pemrograman-Web/index.php
+3. Move file to xampp/htdocs
+
+4. Open in browser /localhost/Tugas-Pemrograman-Web-main/index.php
